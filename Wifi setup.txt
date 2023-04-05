@@ -1,0 +1,7 @@
+To connect the receiver circuit(ESP32 module) to the wifi please rename your wifi as following:
+
+Usear Name - JanithOcean 
+Password - ocean12345
+
+
+ 
